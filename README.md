@@ -26,6 +26,7 @@ Information about your follows will now be in a file in this directory called "f
 ## TODO
 
 - [x] Download profile info for all follows
+- [ ] Add a command to scrape all follows for mastadon handles and generate a CSV for import.
 - [ ] Make it more user friendly (maybe use bun to make an executable download)
 - [ ] Download all avatars
 - [ ] Create an HTML page to simulate their twitter profile
