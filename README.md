@@ -12,7 +12,7 @@ A twitter bearer token: https://developer.twitter.com/en/docs/authentication/oau
 ## Instructions
 
 ```
-git clone git clone https://github.com/rgigger/twitter-export.git
+git clone https://github.com/rgigger/twitter-export.git
 cd twitter-export/
 mv .env-sample .env
 # edit .env and enter your bearer token and user name
