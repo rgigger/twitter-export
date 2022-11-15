@@ -44,7 +44,7 @@ async function main() {
     console.log(`${count} followees found`);
 
     const jsonContents: string = JSON.stringify(allFollowees, null, 4);
-    fs.writeFileSync(`follows-${(new Date()).getTime()}`, jsonContents);
+    fs.writeFileSync(`follows-${(new Date()).getTime()}.json`, jsonContents);
 }
 
 
